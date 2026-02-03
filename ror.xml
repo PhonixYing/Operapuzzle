@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://phonixying.github.io/Operapuzzle/</title>
+  <link>https://phonixying.github.io/Operapuzzle/</link>
+
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/</link>
+     <title>戲曲拼圖</title>
+     <description>京劇臉譜·三國拼圖遊戲：章節關卡、角色圖鑑與成就系統，離線也能玩。</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/zh/</link>
+     <title>戏曲拼图</title>
+     <description>京剧脸谱·三国拼图游戏：章节关卡、角色图鉴与成就系统，离线也能玩。</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/en/</link>
+     <title>Opera Puzzle: Peking Opera Face</title>
+     <description>Peking Opera face puzzle game with chapters, character gallery, and achievements — playable offline.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/pt/</link>
+     <title>Opera Puzzle: Quebra‑cabeça</title>
+     <description>Jogo de quebra‑cabeça inspirado na Ópera de Pequim com capítulos, galeria de personagens e conquistas — offline.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/ru/</link>
+     <title>Opera Puzzle: пазл</title>
+     <description>Пазл‑игра с главами, галереей персонажей и достижениями — можно играть офлайн.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/es/</link>
+     <title>Opera Puzzle: Rompecabezas</title>
+     <description>Juego de rompecabezas inspirado en la Ópera de Pekín con capítulos, galería de personajes y logros — sin conexión.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/ko/</link>
+     <title>Opera Puzzle: 퍼즐</title>
+     <description>경극 가면을 테마로 한 퍼즐 게임. 챕터, 캐릭터 갤러리, 업적을 오프라인으로 즐기세요.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/fa/</link>
+     <title>Opera Puzzle: پازل</title>
+     <description>بازی پازل با فصل‌ها، گالری شخصیت‌ها و دستاوردها — قابل بازی به صورت آفلاین.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/Operapuzzle/ja/</link>
+     <title>Opera Puzzle: パズル</title>
+     <description>章立て、キャラクターギャラリー、実績を備えた京劇テーマのパズル — オフラインで遊べます。</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
